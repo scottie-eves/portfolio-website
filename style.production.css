@@ -116,7 +116,6 @@ a:hover {
 
 a:focus {
     text-decoration: none;
-    /* no underlining when hovering over a link */
     color: #007f6d;
     border: #BFBFBF;
     font-size: 110%;
@@ -124,6 +123,12 @@ a:focus {
 
 a:active {
     color: #292929;
+}
+
+.social-media a {
+    color: none;
+    text-decoration: none;
+    background-color: none;
 }
 
 button {
