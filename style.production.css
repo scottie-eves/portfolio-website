@@ -224,6 +224,10 @@ button:active {
     margin-right: auto;
 }
 
+.about-page__item {
+    border-radius: 4%;
+}
+
 .work-page {
     text-align: center;
     margin: auto;
